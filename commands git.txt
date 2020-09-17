@@ -1,0 +1,2 @@
+1. git checkout -b nom_de_la_branch // Création de la branch
+2. git push origin nom_de_la_branch // Push sur la branch
